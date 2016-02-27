@@ -5,13 +5,13 @@ Description: Lightweight Android library to read parts of RSS 2.0 feeds.
 
 # Installation
 
-Add as a Maven/Gradle dependency: https://jitpack.io/#ahorn/android-rss
+Add as a Maven/Gradle dependency: https://jitpack.io/#fughz/android-rss
 
 Fetch the source code with Git:
 ```
-  git clone https://ahorn@github.com/ahorn/android-rss.git
+  git clone https://fughz@github.com/fughz/android-rss.git
 ```
-Alternatively, you can download the sources from github.com/ahorn.
+Alternatively, you can download the sources from github.com/fughz.
 
 To reference the downloaded library from within your Android mobile app,
 navigate to the <sdk>/tools/ directory and use the following command:
@@ -47,7 +47,7 @@ Android library project documentation:
   http://developer.android.com/guide/developing/projects/projects-cmdline.html#ReferencingLibraryProject
 
 Eclipse reports the error: "Default target help does not exist in this project"
-  https://github.com/ahorn/android-rss/issues/2
+  https://github.com/fughz/android-rss/issues/2
 
 # API Usage
 ```
